@@ -1,0 +1,50 @@
+.container{
+	height: 70vh;
+	background: url(http://pic.pipiti.com/gallery/2013-08/08/1308080238188921.jpg);
+	background-position: center;
+	display: block;
+	background-size: cover;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-item:center;
+	
+	
+	
+}
+h1{
+	font-family: monospace;
+	color: white;
+	font-size: 56px;
+	
+	
+}
+h3{
+	font-family: monospace;
+	color: white;
+	display: inline-block;
+	font-size: 25px;
+}
+
+body{
+	margin: 0px;
+}
+
+article{
+	max-width: 700px;
+	margin: 0 auto;
+	font-family: monospace;
+}
+
+article p {
+	color: black;
+	font-size: 25px;
+
+}
+
+h5{
+	font-family: monospace;
+	font-size: 20px;
+	color: #F0F8FF;
+}
